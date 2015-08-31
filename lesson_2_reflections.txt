@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	You create a new blank repository. 
+	How the F else are you going to create one ?
+	Initializing the repository creates it
+
+	
