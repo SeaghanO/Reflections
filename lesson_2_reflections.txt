@@ -4,4 +4,13 @@ What happens when you initialize a repository? Why do you need to do it?
 	How the F else are you going to create one ?
 	Initializing the repository creates it
 
-	
+	What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Learning Italian. -Creating versions in other languages or other experimental versions of the code.
+
+	Adding features to working code. Each addition would have it's own 
+	branch.
+
+	The branches could be merged  L8R
+	x
+
