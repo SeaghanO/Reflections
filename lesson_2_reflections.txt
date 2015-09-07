@@ -14,3 +14,6 @@ What happens when you initialize a repository? Why do you need to do it?
 	The branches could be merged  L8R
 	x
 
+	How do the diagrams help you visualize the branch structure?
+	Makes it easy to see the branches and to see the unreacable commits.
+
