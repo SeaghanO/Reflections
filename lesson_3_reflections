@@ -4,6 +4,7 @@ Modified this file in Remote repository for lesson three. Gives me a file to pul
 This is for lesson on pulling files from git hub
 
 X
+
 When would you want to use a remote repository rather than keeping all your work local?
 1- DISASTER RECOVERY 
 2- Sharing work
@@ -18,3 +19,9 @@ Might not be ready for other peoples changes, e.g. may need to debug my code fir
 
 
 X
+
+Lesson 3-7+ 2015-12-27A
+Clone: A copy of a repository from GitHub to your local drive. 
+Forking is cloning IN GITHUB with notification given to the original that a copy was made. 
+Branch offshoot of the current master or other branch that must be committed in order to be 
+accessible.
