@@ -25,3 +25,13 @@ Clone: A copy of a repository from GitHub to your local drive.
 Forking is cloning IN GITHUB with notification given to the original that a copy was made. 
 Branch offshoot of the current master or other branch that must be committed in order to be 
 accessible.
+
+
+X
+
+Need to work with GIT FETCH
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+Can work on it offline then fetch/merge or pull others changes down L8R.
+
+
