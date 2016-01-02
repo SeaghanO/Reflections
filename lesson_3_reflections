@@ -1,4 +1,6 @@
 Lesson Three Reflections 
+
+
 Modified this file in Remote repository for lesson three. Gives me a file to pull to local.
 
 This is for lesson on pulling files from git hub
@@ -34,4 +36,8 @@ Need to work with GIT FETCH
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Can work on it offline then fetch/merge or pull others changes down L8R.
 
+X 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder ?
+Sneaker net or Email- ONLY one person working on a file at a time. Version control would be more difficult.
+It might be slower as ONLY one person working on a file at a time.
